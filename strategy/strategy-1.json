@@ -1,12 +1,54 @@
 {
+  "validator": [
+    {
+      "validator_index": 1,
+      "attacker_start_slot": 1,
+      "attacker_end_slot": 1000
+    },
+    {
+      "validator_index": 8,
+      "attacker_start_slot": 1,
+      "attacker_end_slot": 1000
+    },
+    {
+      "validator_index": 15,
+      "attacker_start_slot": 1,
+      "attacker_end_slot": 1000
+    },
+    {
+      "validator_index": 23,
+      "attacker_start_slot": 1,
+      "attacker_end_slot": 1000
+    },
+    {
+      "validator_index": 30,
+      "attacker_start_slot": 1,
+      "attacker_end_slot": 1000
+    },
+    {
+      "validator_index": 40,
+      "attacker_start_slot": 1,
+      "attacker_end_slot": 1000
+    },
+    {
+      "validator_index": 50,
+      "attacker_start_slot": 1,
+      "attacker_end_slot": 1000
+    },
+    {
+      "validator_index": 60,
+      "attacker_start_slot": 1,
+      "attacker_end_slot": 1000
+    }
+  ],
   "block": {
-    "delay_enable": false,
-    "broad_cast_delay": 40000,
+    "delay_enable": true,
+    "broad_cast_delay": 15000,
     "modify_enable": false
   },
   "attest": {
     "delay_enable": false,
     "broad_cast_delay": 40000,
-    "modify_enable": true
+    "modify_enable": false
   }
 }
