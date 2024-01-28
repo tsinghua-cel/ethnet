@@ -6,7 +6,27 @@
       "attacker_end_slot": 1000
     },
     {
+      "validator_index": 2,
+      "attacker_start_slot": 1,
+      "attacker_end_slot": 1000
+    },
+    {
+      "validator_index": 7,
+      "attacker_start_slot": 1,
+      "attacker_end_slot": 1000
+    },
+    {
       "validator_index": 8,
+      "attacker_start_slot": 1,
+      "attacker_end_slot": 1000
+    },
+    {
+      "validator_index": 13,
+      "attacker_start_slot": 1,
+      "attacker_end_slot": 1000
+    },
+    {
+      "validator_index": 14,
       "attacker_start_slot": 1,
       "attacker_end_slot": 1000
     },
@@ -16,12 +36,37 @@
       "attacker_end_slot": 1000
     },
     {
-      "validator_index": 23,
+      "validator_index": 16,
       "attacker_start_slot": 1,
       "attacker_end_slot": 1000
     },
     {
-      "validator_index": 30,
+      "validator_index": 24,
+      "attacker_start_slot": 1,
+      "attacker_end_slot": 1000
+    },
+    {
+      "validator_index": 25,
+      "attacker_start_slot": 1,
+      "attacker_end_slot": 1000
+    },
+    {
+      "validator_index": 26,
+      "attacker_start_slot": 1,
+      "attacker_end_slot": 1000
+    },
+    {
+      "validator_index": 27,
+      "attacker_start_slot": 1,
+      "attacker_end_slot": 1000
+    },
+    {
+      "validator_index": 36,
+      "attacker_start_slot": 1,
+      "attacker_end_slot": 1000
+    },
+    {
+      "validator_index": 38,
       "attacker_start_slot": 1,
       "attacker_end_slot": 1000
     },
@@ -31,12 +76,37 @@
       "attacker_end_slot": 1000
     },
     {
-      "validator_index": 50,
+      "validator_index": 42,
       "attacker_start_slot": 1,
       "attacker_end_slot": 1000
     },
     {
-      "validator_index": 60,
+      "validator_index": 55,
+      "attacker_start_slot": 1,
+      "attacker_end_slot": 1000
+    },
+    {
+      "validator_index": 56,
+      "attacker_start_slot": 1,
+      "attacker_end_slot": 1000
+    },
+    {
+      "validator_index": 57,
+      "attacker_start_slot": 1,
+      "attacker_end_slot": 1000
+    },
+    {
+      "validator_index": 58,
+      "attacker_start_slot": 1,
+      "attacker_end_slot": 1000
+    },
+    {
+      "validator_index": 62,
+      "attacker_start_slot": 1,
+      "attacker_end_slot": 1000
+    },
+    {
+      "validator_index": 63,
       "attacker_start_slot": 1,
       "attacker_end_slot": 1000
     }
