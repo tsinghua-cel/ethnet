@@ -6,7 +6,7 @@
     "topology": {
       "attackers": [{
         "name": "attacker-1",
-        "version": "v0.0.12",
+        "version": "v0.0.19",
         "config": "./config/attacker-config.toml",
         "strategy": "./strategy/strategy-1.json"
       }],
