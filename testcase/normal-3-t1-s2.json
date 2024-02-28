@@ -54,6 +54,7 @@
                 "env": {
                   "ATTACKER_SERVICE_URL": "http://172.17.0.1:12000"
                 },
+		"validator_count": 22,
                 "beacon": "beacon-1"
             },
 	    {
