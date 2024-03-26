@@ -6,7 +6,8 @@
 			"actions": {
 				"AttestAfterSign": "storeSignedAttest",
 				"AttestBeforePropose": "return",
-				"BlockBeforeSign": "return"
+				"BlockBeforeSign": "return",
+				"BlockAfterSign": "return"
 			}
 		},
 		{
