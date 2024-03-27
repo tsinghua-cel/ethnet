@@ -6,7 +6,7 @@
     "topology": {
         "executors": [{
                 "name": "execute-1",
-                "version": "v1.13-base"
+                "version": "v1.13-base-v5"
             }
         ],
         "beacons": [{
