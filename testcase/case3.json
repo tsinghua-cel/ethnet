@@ -10,31 +10,31 @@
         }],
         "executors": [{
                 "name": "execute-1",
-                "version": "v1.13-base"
+                "version": "v1.13-base-v4"
             },
 	    {
                 "name": "execute-2",
-                "version": "v1.13-base"
+                "version": "v1.13-base-v4"
             },
 	    {
                 "name": "execute-3",
-                "version": "v1.13-base"
+                "version": "v1.13-base-v4"
             },
 	    {
                 "name": "execute-4",
-                "version": "v1.13-base"
+                "version": "v1.13-base-v4"
             },
 	    {
                 "name": "execute-5",
-                "version": "v1.13-base"
+                "version": "v1.13-base-v4"
             },
             {
                 "name": "execute-6",
-                "version": "v1.13-base"
+                "version": "v1.13-base-v4"
             },
             {
                 "name": "execute-7",
-                "version": "v1.13-base"
+                "version": "v1.13-base-v4"
             }
         ],
         "beacons": [{

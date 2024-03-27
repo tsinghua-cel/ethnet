@@ -6,37 +6,37 @@
     "topology": {
         "attackers": [{
             "name": "attacker-1",
-            "version": "v0.0.1",
+            "version": "strategy-v4",
             "config": "config/attacker-config.toml",
             "strategy": "strategy/strategy-1.json"
         }],
         "executors": [{
                 "name": "execute-1",
-                "version": "v1.13-base"
+                "version": "v1.13-base-v4"
             },
 	    {
                 "name": "execute-2",
-                "version": "v1.13-base"
+                "version": "v1.13-base-v4"
             },
 	    {
                 "name": "execute-3",
-                "version": "v1.13-base"
+                "version": "v1.13-base-v4"
             },
 	    {
                 "name": "execute-4",
-                "version": "v1.13-base"
+                "version": "v1.13-base-v4"
             },
 	    {
                 "name": "execute-5",
-                "version": "v1.13-base"
+                "version": "v1.13-base-v4"
             },
             {
                 "name": "execute-6",
-                "version": "v1.13-base"
+                "version": "v1.13-base-v4"
             },
             {
                 "name": "execute-7",
-                "version": "v1.13-base"
+                "version": "v1.13-base-v4"
             }
         ],
         "beacons": [{
