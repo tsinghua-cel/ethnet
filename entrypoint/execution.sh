@@ -16,7 +16,7 @@ initialize
 
 /usr/bin/geth --datadir /root/gethdata \
 	--http \
-	--http.api=eth,net,web3,admin,txpool \
+	--http.api=eth,net,web3,admin,txpool,debug \
 	--http.addr=0.0.0.0 \
 	--http.corsdomain=* \
 	--ws \
